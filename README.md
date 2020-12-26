@@ -33,6 +33,7 @@ You can invite Strider to your server <a href="#">here</a>, and if you need any 
   - Role Only Giveaways (Coming Soon)
   - Giveaways Reroll, End and Lookup
 - Moderation Tools
+ - Test
 - Warning System
   - Warnings ID
   - Warnings Lookup With Username/ID
