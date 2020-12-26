@@ -17,12 +17,16 @@ You can invite Strider to your server <a href="#">here</a>, and if you need any 
 - Giveaways
 - Moderation
 - Warning System
+  - Warnings ID
+  - Warnings Lookup With User
 - Music System
   - Play From YouTube
   - Advance Queue System
   - Song Lookup
   - Clear Audio & No Static
 - Levelling System
+  - Level Card
+  - Server Leaderboard
 
 <h2> Credits & Inspirations </h2>
 
