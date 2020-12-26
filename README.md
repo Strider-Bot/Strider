@@ -26,14 +26,30 @@ You can invite Strider to your server <a href="#">here</a>, and if you need any 
   - Roles Updates Logs
   - Role Created/Deleted Logs
   - Mods Logs
-  - Suspicious User Logs (In Development)
+- Utiltiy
+  - Role Creation
+  - Server Info
+  - Role List
+  - Whohas Command For Roles
+  - Server Membercounts
+- Fun 
+  - Facts
+  - Quotes
+  - Daily Dad Jokes
+  - Wouls You Rather
+  - TickTakToe
+  - Hack
+  - COVID-19 Stats
 - Giveaways
   - Advance Giveaways
   - Suggested Server (Coming Soon)
   - Role Only Giveaways (Coming Soon)
   - Giveaways Reroll, End and Lookup
 - Moderation Tools
- - Test
+  - Moderation Commands
+  - Channel Purge & Nuke
+  - Userinfo Command
+  - Voice Moderation Commands
 - Warning System
   - Warnings ID
   - Warnings Lookup With Username/ID
