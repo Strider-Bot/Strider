@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="https://striderbot.net/StriderBot.jpeg" height='100px' width='100px' />
+  <img src="https://striderbot.net/StriderLogo.jpeg" height='100px' width='100px' />
 <br>
 Strider Bot </h2>
   <p align="center">
