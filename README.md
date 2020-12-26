@@ -13,3 +13,6 @@ You can invite Strider to your server <a href="#">here</a>, and if you need any 
 
 - Welcomer 
 - Leaver 
+
+<h2> Credits & Inspirations </h2>
+> Thanks @Evobot For The Music System
