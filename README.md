@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="https://cdn.teamtritan.wtf/tritan-bot/logo.webp" height='100px' width='100px' />
+  <img src="https://cdn.teamtritan.wt/tritan-bot/logo.webp" height='100px' width='100px' />
 <br>
 Strider Bot </h2>
   <p align="center">
