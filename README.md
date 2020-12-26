@@ -66,7 +66,3 @@ You can invite Strider to your server <a href="#">here</a>, and if you need any 
 - Triggers
   - Certain Words Trigger
   - Can Be Disabled and Enabled
-
-<h2> Credits & Inspirations </h2>
-
-- The music aspect of this bot is inspired by Evobot.
