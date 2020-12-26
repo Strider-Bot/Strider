@@ -3,4 +3,4 @@
 <br>
 Strider Bot </h2>
   <p align="center">
-Strider is a Verifyed Discord Bot, it has many features including Giveaways, Modaration and Much More! </p>
+Strider is a Verifyed Multipurpose Discord Bot built using discord.js and express</p>
