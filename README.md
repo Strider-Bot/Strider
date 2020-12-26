@@ -12,7 +12,17 @@ You can invite Strider to your server <a href="#">here</a>, and if you need any 
 <h2> Features </h2>
 
 - Welcomer 
-- Leaver 
+- Leaver
+- Logging System
+- Giveaways
+- Moderation
+- Warning System
+- Music System
+  - Play From YouTube
+  - Advance Queue System
+  - Song Lookup
+  - Clear Audio & No Static
+- Levelling System
 
 <h2> Credits & Inspirations </h2>
 
