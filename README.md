@@ -27,6 +27,10 @@ You can invite Strider to your server <a href="#">here</a>, and if you need any 
 - Levelling System
   - Level Card
   - Server Leaderboard
+  - Level Up Messages Channel
+- Triggers
+  - Certain Words Trigger
+  - Can Be Disabled and Enabled
 
 <h2> Credits & Inspirations </h2>
 
