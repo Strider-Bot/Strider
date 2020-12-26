@@ -11,15 +11,33 @@ You can invite Strider to your server <a href="#">here</a>, and if you need any 
 
 <h2> Features </h2>
 
-- Welcomer 
-- Leaver
+- Online Dashboard
+  - Change Server Settings
+  - Check Logs & Warnings (In Development)
+- Joins / Leaves
+  - Have a Welcome and Leave Channel
+  - Shows Name, Tag and Avatar
 - Logging System
+  - Join/Leave Logs
+  - Ban/Unban Logs
+  - User Logs
+  - Message Deletion Logs
+  - Updated Messages Logs
+  - Roles Updates Logs
+  - Role Created/Deleted Logs
+  - Mods Logs
+  - Suspicious User Logs (In Development)
 - Giveaways
-- Moderation
+  - Advance Giveaways
+  - Suggested Server (Coming Soon)
+  - Role Only Giveaways (Coming Soon)
+  - Giveaways Reroll, End and Lookup
+- Moderation Tools
 - Warning System
   - Warnings ID
-  - Warnings Lookup With User
+  - Warnings Lookup With Username/ID
 - Music System
+  - Controls Via Reactions 
   - Play From YouTube
   - Advance Queue System
   - Song Lookup
