@@ -3,7 +3,7 @@
 <br>
 Strider Bot </h2>
   <p align="center">
-Strider is a Verified Multipurpose Discord Bot built using <i>discord.js</i> and <i>express</i>, featuring Moderation, Logging, Welcome/Leave, Giveaways, Music, Fun and Much more! </p>
+Strider is a Verified Multipurpose Discord Bot built using <i>discord.js</i> and <i>VUE</i>, featuring Moderation, Logging, Welcome/Leave, Giveaways, Music, Fun and Much more! </p>
 
 <h2> Inviting Strider </h2>
 
