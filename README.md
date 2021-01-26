@@ -1,3 +1,6 @@
+<img src="https://infinitybotlist.com/bots/765088908773818378/widget?size=medium">
+
+
 <h2 align='center'>
   <img src="https://striderbot.net/StriderLogo.jpeg" height='100px' width='100px' />
 <br>
